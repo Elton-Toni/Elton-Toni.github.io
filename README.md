@@ -4,7 +4,7 @@
 # Current repository name `elton-toni.github.io`
 
   ## 1) if repository is named `frontMasterEx`
-  url: https://elton-toni.github.io/frontMasterEx/forms.html
+  url: https://elton-toni.github.io/frontMasterEx//forms.html
   with "GitHub Pages" that have Source (cfr. Settings) "master branch"
 
   ## 2) if repository is named `elton-toni.github.io`

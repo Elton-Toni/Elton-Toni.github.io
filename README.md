@@ -1,7 +1,7 @@
 
 ## Exercise with GitHub from FrontMaster Bootcamp
 
-# Current repository `frontMasterEx`
+# Current repository name `elton-toni.github.io`
 
   ## 1) if repository is named `frontMasterEx`
   url: https://elton-toni.github.io/frontMasterEx/forms.html
